@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 import User from "../../../../api/users/userModel";
 import api from "../../../../index";
 
-//
+
 const expect = chai.expect;
 let db;
 let user1token;
